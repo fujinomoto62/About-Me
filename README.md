@@ -2,6 +2,12 @@
 
 I am a university student in Japan. I will use this account to stock my deliverables.
 
+What I made:
+・Auto face masking app
+・Popular YouTube videos fetching app
+・Real time chat app
+
+
 <!--
 **fujinomoto62/fujinomoto62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
